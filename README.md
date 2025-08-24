@@ -63,13 +63,20 @@ The deployment simulates a real-world enterprise environment where remote users 
 ---
 
 ## 📷 Screenshots
-- FreeRADIUS user setup with OTP  
-- TOTP QR code & Google Authenticator  
-- OpenVPN login prompt (with TOTP)  
-- Successful VPN connection status  
-- Tunnel ping test  
 
-(📂 Place screenshots inside an `/images/` folder)  
+![FreeRADIUS Users](images/freeradius-users.png)  
+*Figure 1: FreeRADIUS user configuration with OTP enabled*
+
+![VPN Login with TOTP](images/vpn-login.png)  
+*Figure 2: OpenVPN login requiring username, password, and TOTP code*
+
+![VPN Connection Successful](images/vpn-connected.png)  
+*Figure 3: Successful VPN connection status in pfSense*
+
+![Ping Test](images/ping-test.png)  
+*Figure 4: Tunnel connectivity confirmed with ping*
+
+ 
 
 ---
 
