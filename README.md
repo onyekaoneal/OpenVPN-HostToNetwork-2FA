@@ -64,7 +64,7 @@ The deployment simulates a real-world enterprise environment where remote users 
 
 ## 📷 Screenshots
 
-![FreeRADIUS Users](images/freeradius-users.png)  
+![FreeRADIUS Users](images/images/freeradius-users.png)  
 *Figure 1: FreeRADIUS user configuration with OTP enabled*
 
 ![VPN Login with TOTP](images/vpn-login.png)  
